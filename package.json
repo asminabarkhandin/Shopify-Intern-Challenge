@@ -1,14 +1,22 @@
 {
-  "name": "challenge",
+  "name": "shopify-intern-challenge",
   "version": "1.0.0",
-  "description": "",
+  "description": "Fall 2021 - Shopify Developer Intern Challenge",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asminabarkhandin/Shopify-Intern-Challenge.git"
+  },
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asminabarkhandin/Shopify-Intern-Challenge/issues"
+  },
+  "homepage": "https://github.com/asminabarkhandin/Shopify-Intern-Challenge#readme",
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.17.1",
