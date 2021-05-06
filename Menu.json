@@ -1,0 +1,188 @@
+[{
+  "_id": {
+    "$oid": "5fc4fc023bf47f37b0def4ac"
+  },
+  "name": "Green Ecler",
+  "price": 7,
+  "src": "html//Products//photo1.png",
+  "description": "Filling: Raspberry coolie (French sauce based on natural raspberry puree) and custard based on homemade pistachio paste. Decoration:Whipped cream and Belgian chocolate glaze",
+  "__v": 0,
+  "category": "cupcakes",
+  "isShown": true
+},{
+  "_id": {
+    "$oid": "5fc4fcc05e317641e03276b1"
+  },
+  "name": "Malevich Cupcake",
+  "price": 10,
+  "src": "html//Products//photo2.png",
+  "description": "Filling: Sponge cake based on hazelnut flour. Apple filling - apples, raisins and natural passion fruit puree.Chantilly cream is an English custard with the addition of Mascarpone cheese and bourbon vanilla extract. Decoration:Glaze based on boiled condensed milk and white Belgian chocolate, dark chocolate decor.",
+  "__v": 0,
+  "category": "cupcakes",
+  "isShown": true
+},{
+  "_id": {
+    "$oid": "5fc4fd2beb5f2f2fac08e357"
+  },
+  "name": "Chocolate",
+  "price": 12,
+  "src": "html//Products//photo3.png",
+  "description": "Filling: Handicraft chocolate based on Belgian and French raw materials. We produce by hand. The price is indicated for a weight of 50 g. Chocolate is sold by weight.",
+  "__v": 0,
+  "category": "sweets",
+  "isShown": true
+},{
+  "_id": {
+    "$oid": "5fc4fd86794e5920949e3aec"
+  },
+  "name": "Red Velvet",
+  "price": 120,
+  "src": "html//Products//photo4.png",
+  "description": "\nFilling:\nWe prepare cakes of 2-2.5 kg in the following flavors: Red Velvet, Whoopie pie, Fig - Toffee, Kazakh Tea Party, Chocolate - Praline, Peach - Yogurt, Pistachio - Raspberry, Apple - Hazelnut, Plombir - Currant. Add this product to your cart. The operator, when confirming the order, will specify what kind of cake to cook for you.",
+  "__v": 0,
+  "category": "cakes",
+  "isShown": true
+},{
+  "_id": {
+    "$oid": "5fc4fe186cb57f33d835fb6b"
+  },
+  "name": "Lemon Cake",
+  "price": 40,
+  "src": "html//Products//photo5.png",
+  "description": "Filling: Large lemon curd pie. Crispy shortbread dough. Delicate sweet filling with a subtle hint of citrus. Curd custard filling with natural lemon puree and condensed milk",
+  "__v": 0,
+  "category": "cakes",
+  "isShown": true
+},{
+  "_id": {
+    "$oid": "5fc4fe877029ac10a8c58147"
+  },
+  "name": "Homemade Biscuit",
+  "price": 9,
+  "src": "html//Products//photo6.png",
+  "description": "Filling: A muffin based on almond flour, orange peel and candied fruit, which we prepare ourselves. Decoration: Impregnation based on white rum and natural passion fruit puree.",
+  "__v": 0,
+  "category": "biscuits",
+  "isShown": true
+},{
+  "_id": {
+    "$oid": "5fc4ff1956a0f33880156775"
+  },
+  "name": "Galaxy Cake",
+  "price": 100,
+  "src": "html//Products//Galaxy_cake.png",
+  "description": "Filling: We prepare cakes of 1 - 1.2 kg in the following flavors: Red velvet, Whoopie pie, Fig - Toffee, Kazakh tea, Chocolate - Praline, Peach - Yogurt, Pistachio - Raspberry, Apple - Hazelnuts, Plombir - Currant, English tea with lemon, Cherry - Milk chocolate. ... Add this product to your cart. The operator, upon confirmation of the order, will specify which cake to cook for you",
+  "__v": 0,
+  "category": "cakes",
+  "isShown": true
+},{
+  "_id": {
+    "$oid": "5fc4ff77daf1683184eb211f"
+  },
+  "name": "Cheesecake",
+  "price": 40,
+  "src": "html//Products//Cheesecake.png",
+  "description": "Filling: Large curd pie. Crispy shortbread dough. Delicate sweet curd filling with cream.",
+  "__v": 0,
+  "category": "cakes",
+  "isShown": true
+},{
+  "_id": {
+    "$oid": "5fc4ffca8377102210d51f0a"
+  },
+  "name": "Blue Cake",
+  "price": 90,
+  "src": "html//Products//Blue_cake.png",
+  "description": "Filling: We prepare cakes in sizes 300 - 450 gr. in the following flavors: Red Velvet, Whoopie pie, Fig - Toffee, Kazakh tea drinking, Chocolate - Praline, Peach - Yogurt, Pistachio - Raspberry, Apple - Hazelnuts, Plombir - Currant, English tea with lemon, Cherry - Milk chocolate. Add this product to your cart. The operator, upon confirmation of the order, will specify which cake to cook for you",
+  "__v": 0,
+  "category": "cakes",
+  "isShown": true
+},{
+  "_id": {
+    "$oid": "5fc500183363060dbcd0a443"
+  },
+  "name": "Purple Cake",
+  "price": 40,
+  "src": "html//Products//Purple_cake.png",
+  "description": "Filling: Small berry and curd pie. Crispy shortbread dough. Delicate sweet curd filling with cream, with the addition of a mix of raspberries, strawberries, currants",
+  "__v": 0,
+  "category": "cakes",
+  "isShown": true
+},{
+  "_id": {
+    "$oid": "5fc5035fe1192f07583cab28"
+  },
+  "name": "Macaron",
+  "price": 15,
+  "src": "html//Products//Macaron.png",
+  "description": "Filling: Ganache based on whipped cream, Belgian chocolate and a mix of natural mango and passionfruit puree.",
+  "__v": 0,
+  "category": "biscuits",
+  "isShown": true
+},{
+  "_id": {
+    "$oid": "5fc503c42566561b8c7e717c"
+  },
+  "name": "Jelly Cupcake",
+  "price": 79,
+  "src": "html//Products//Jelly_cupcake.png",
+  "description": "Filling: Delicate sponge cake based on natural peach puree and marzipan. In the center of the cake are confit made from natural lemon puree with bergamot. Earl Gray mousse - whipped cream, white chocolate and Earl Gray tea.",
+  "__v": 0,
+  "category": "cupcakes",
+  "isShown": true
+},{
+  "_id": {
+    "$oid": "5fc5045ad4100c1d9492b6bd"
+  },
+  "name": "Peanut Cookie",
+  "price": 25,
+  "src": "html//Products//Peanut_cookie.png",
+  "description": "Taste: Cookies based on natural peanut butter and soft butter. You get 10 nice cookies per one serving",
+  "__v": 0,
+  "category": "biscuits",
+  "isShown": true
+},{
+  "_id": {
+    "$oid": "5fd3984548078d2a0c603c30"
+  },
+  "isShown": true,
+  "name": "New Super Cake",
+  "price": 120,
+  "src": "html//Products//photo5.png",
+  "description": "wwww",
+  "category": "cakes",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "608fdc044fc2043c3c021bda"
+  },
+  "isShown": true,
+  "name": "nnnnurssiil",
+  "price": null,
+  "src": "",
+  "description": "",
+  "category": "",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "608fdf404fc2043c3c021bdb"
+  },
+  "isShown": true,
+  "name": "s",
+  "price": null,
+  "src": "",
+  "description": "",
+  "category": "",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609234927aff903fdc18dcd6"
+  },
+  "isShown": true,
+  "name": "kk",
+  "price": null,
+  "src": "",
+  "description": "",
+  "category": "",
+  "__v": 0
+}]

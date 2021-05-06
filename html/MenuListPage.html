@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Our Menu</title>
+	<link rel="stylesheet" href="/css/styleMenu.css">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Sofia&display=swap">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Sofia&display=swap">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	<script src="scripts/scriptMenu.js" defer></script> 
+
+</head>
+<body>
+<header>
+		<nav>
+					<div class="logo-nav"><img src="html/logo.png"></div>
+					<div class="nav-item"><a href="/menu" class="nav-link">Menu</a></div>
+					<div class="nav-item"><a href="/admin" class="nav-link">Admin</a></div>		
+					
+		</nav>
+	</header>
+
+	<section id="main-section">
+		<div id="control-panel">
+			<h1>Welcome to our Menu!</h1>
+			<div id="filter-panel">
+				<form method="GET">
+					<input type="text" id="productName" name="name">
+					<select name="category" id="category">
+						<option selected value="all">Select category</option>
+						<option value="cakes">Cakes</option>
+						<option value="cupcakes">Cupcakes</option>
+						<option value="biscuits">Biscuits</option>
+						<option value="sweets">Sweets</option>
+					</select>
+					<button onclick="loadFilter()" type="button" id="filter">Search</button>
+				</form>
+				
+			</div>
+		</div>
+		<div id="grid-container">
+			
+		</div>
+	</section>
+
+	<footer>
+		<p>Cakes & Bakes</p>
+		<div id="contacts">
+			<a href="#" class="fa fa-facebook"></a>
+			<a href="#" class="fa fa-instagram"></a>
+		</div>
+	
+
+	</footer>
+
+</body>
+</html>
