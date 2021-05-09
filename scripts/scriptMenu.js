@@ -35,7 +35,7 @@ const iconUrl = "html/favourite.png";
 
 
 async function loadJson() {
-  const response = await fetch('http://localhost:3000/menu'); 
+  const response = await fetch('http://localhost:3000/menu/load'); 
   const json = await response.json();
   let menu = json;
 	
@@ -120,11 +120,4 @@ async function loadFilter() {
 				return;
 
 		}	
-}
-
-async function openItem(id){
-
-	window.location.replace(`http://localhost:4000/menu/${id}`);
-	console.log("clicked");
-	
 }

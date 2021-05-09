@@ -1,5 +1,5 @@
 async function loadJson(){
-	const response = await fetch('http://localhost:3000/admin');
+	const response = await fetch('http://localhost:3000/admin/load');
 	const json = await response.json();
 	let menu = json;
 	let list = document.querySelector("#menu");

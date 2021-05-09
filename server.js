@@ -1,3 +1,4 @@
+const path = require('path');
 const express = require('express');
 const app = express();
 const cors = require('cors');
@@ -23,8 +24,14 @@ app.use(allowCrossDomain);
 app.use(express.static('public'));
 app.use(morgan());
 
+app.use(express.static('.\\'));
+
 
 app.get('/menu', (req, res)=>{
+	res.sendFile(path.resolve(__dirname, '.\\html', 'MenuListPage.html'));
+});
+
+app.get('/menu/load', (req, res)=>{
 	Cakes.find({isShown: true}).then(data => res.send(data)).catch(()=> res.send("Error with acessing database"));
 });
 
@@ -56,7 +63,12 @@ app.get('/menu/:category/:name', (req, res)=>{
 	
 });
 
-app.get('/admin', (req, res)=>{
+
+app.get('/admin', (req,res)=>{
+	res.sendFile(path.resolve(__dirname, '.\\html', 'AdminPanel.html'));
+});
+
+app.get('/admin/load', (req, res)=>{
 	Cakes.find({}).then(data => res.send(data)).catch(()=> res.send("Error with acessing database"));
 });
 
