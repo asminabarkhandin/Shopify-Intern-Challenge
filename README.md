@@ -8,6 +8,7 @@ Download files from this repository, and in your directory run
 > ``` npm install ```
 > >
 it will install all packages needed.  
+
 Also, you will find ```Menu.json``` file, which is a MongoDB database. To use this database, create ```project``` database and collection ```Menu``` in MongoDB Compass. Then on upper toolbar click ```Collection > Import```, and choose this ```Menu.json``` file.
 
 To run the project, open command line in your directory and run
