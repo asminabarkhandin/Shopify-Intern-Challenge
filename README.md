@@ -43,7 +43,7 @@ Now let's go to Admin section. Here we can change our catalog. We can
 
 ![Admin](/gifs/delret.gif)  
 
-2) Create a new item  
+2) Create a new item (src is for the path of your picture fot your new item, here my path is html//Products//name_of_your_pic.png)  
 
 ![Admin](/gifs/create.gif)  
 
