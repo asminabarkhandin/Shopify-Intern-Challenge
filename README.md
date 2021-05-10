@@ -2,7 +2,11 @@
 This is my project written using NodeJS and ExpressJS for backend, pure HTML/CSS and JavaScript for frontend.
 The idea is a menu of a bakery, with two sections: Menu section which you can scroll and filter by category and/or name, and Admin section, where you can add, delete and update your items of the menu.
 
-Unfortunately, I could not host my project, that is why in Installation section I refer to localhost link.
+Unfortunately, I could not host my project, that is why in Description and Installation sections I refer to localhost link.  
+
+## Description
+We have two section: Menu and Admin. After we run ```node server.js``` in console, we can open browser and go to ```localhost:3000/menu``` and see  
+
 ## Installation
 Download files from this repository, and in your directory run 
 > ``` npm install ```
