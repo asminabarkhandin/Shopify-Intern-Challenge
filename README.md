@@ -6,6 +6,7 @@ Unfortunately, I could not host my project, that is why in Description and Insta
 
 ## Description
 We have two section: Menu and Admin. After we run ```node server.js``` in console, we can open browser and go to ```localhost:3000/menu``` and see  
+![Menu](/gifs/menu.gif)
 
 ## Installation
 Download files from this repository, and in your directory run 
