@@ -6,7 +6,12 @@ Unfortunately, I could not host my project, that is why in Description and Insta
 
 ## Description
 We have two section: Menu and Admin. After we run ```node server.js``` in console, we can open browser and go to ```localhost:3000/menu``` and see  
-![Menu](/gifs/menu.gif)
+![Menu](/gifs/menu.gif)  
+In Menu section we have filter by name and category. We can search solely by category, solely by name or applying both filters.  
+Example with one filter (category)  
+![Menu](/gifs/category.gif)  
+Example with both filters  
+![Menu](/gifs/catname.gif)
 
 ## Installation
 Download files from this repository, and in your directory run 
