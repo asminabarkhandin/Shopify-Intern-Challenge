@@ -32,7 +32,7 @@ let btn = document.getElementById("btn_modal_window");
 function updateItem(id){
 	modal.style.display = "block";
 	
-	fetch('http://localhost:3000/admin').then((response) => {return response.json();}).then((data) => {
+	fetch('http://localhost:3000/admin/load').then((response) => {return response.json();}).then((data) => {
     let menu = data;
     
 	  for(let cake of menu){
