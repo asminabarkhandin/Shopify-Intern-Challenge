@@ -6,12 +6,31 @@ Unfortunately, I could not host my project, that is why in Description and Insta
 
 ## Description
 We have two section: Menu and Admin. After we run ```node server.js``` in console, we can open browser and go to ```localhost:3000/menu``` and see  
+
 ![Menu](/gifs/menu.gif)  
+
 In Menu section we have filter by name and category. We can search solely by category, solely by name or applying both filters.  
+
 Example with one filter (category)  
+
 ![Menu](/gifs/category.gif)  
+
 Example with both filters  
-![Menu](/gifs/catname.gif)
+
+![Menu](/gifs/catname.gif)  
+
+Now let's go to Admin section. Here we can change our catalog. We can  
+1) Delete and Retrieve our items  
+
+![Admin](/gifs/delret.gif)  
+
+2) Create a new item  
+
+![Admin](/gifs/create.gif)  
+
+3) Update an existing item  
+
+![Admin](/gifs/upd.gif)  
 
 ## Installation
 Download files from this repository, and in your directory run 
@@ -19,7 +38,13 @@ Download files from this repository, and in your directory run
 > >
 it will install all packages needed.  
 
-Also, you will find ```Menu.json``` file, which is a MongoDB database. To use this database, create ```project``` database and collection ```Menu``` in MongoDB Compass. Then on upper toolbar click ```Collection > Import```, and choose this ```Menu.json``` file.
+Also, you will find ```Menu.json``` file, which is a MongoDB database. To use this database, create ```project``` database and collection ```Menu``` in MongoDB Compass.  
+
+![Mongo](/gifs/mongo.gif)  
+
+Then on upper toolbar click ```Collection > Import```, and choose this ```Menu.json``` file.  
+
+![Mongo](/gifs/jsonmongo.gif)  
 
 To run the project, open command line in your directory and run
 > node server.js
